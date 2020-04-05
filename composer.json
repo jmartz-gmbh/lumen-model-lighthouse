@@ -1,5 +1,5 @@
 {
-  "name": "jonathan-martz/lumen-model-lighthouse-report",
+  "name": "jmartz/lumen-model-lighthouse-report",
   "description": "Php Lumen Model Lighthouse Report",
   "license": "MIT",
   "require": {
